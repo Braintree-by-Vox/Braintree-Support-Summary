@@ -13,3 +13,4 @@
 <!-- - [Storefront Documentation](https://braintree-by-vox.github.io/Storefront_Documentation/) -->
 - [Trade Assistant](https://braintree-by-vox.github.io/trade_assistant/)
 - [ZRA Smart Invoice](https://braintree-by-vox.github.io/ZRA-Smart-Invoice/)
+- [CRM24](https://braintree-by-vox.github.io/CRM24/)
