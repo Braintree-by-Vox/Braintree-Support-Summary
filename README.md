@@ -1,6 +1,6 @@
 # Braintree Extensions for Microsoft Dynamics 365
 
-# Business Central
+# For Business Central
 
 ## Governance and Document Management
 - [Business Central Extended Workflow Pack](https://braintree-brainworx.github.io/BC-Workflow-Pack/)
@@ -29,6 +29,10 @@
 ## Integrations
 - [RSA Bank Integrations](https://braintree-brainworx.github.io/RSA-Bank-Integration/)
 - [ZRA Smart Invoice](https://braintree-brainworx.github.io/ZRA-Smart-Invoice/)
+
+## E-Commerce
+- StoreFront - full-featured E-commerce platform, with live integration to Business Central
+- WooCommerce Connector for Business Central
 
 # For Customer Engagement
 - [CRM24](https://braintree-brainworx.github.io/CRM24/)
