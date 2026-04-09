@@ -19,6 +19,7 @@
 ## Operations
 - [Inventory Scanning for BC](https://braintree-brainworx.github.io/Scanning-for-BC/)
 - [LightPOS](https://braintree-brainworx.github.io/LightPOS/)
+- [Projects and Professional Services](https://braintree-brainworx.github.io/Braintree-PPS-Cloud)
    
 ## General Productivity
 - [LightSpeed Business Central Rapid Implementation](https://braintree-brainworx.github.io/Lightspeed-Support/)
