@@ -7,7 +7,6 @@
 - [PowerFlow - BC and PowerAutomate Workflow](https://braintree-brainworx.github.io/PowerFlow/)
 - [DocuVault Sharepoint integration](https://braintree-brainworx.github.io/DocuVault/)
 - [Compliance Document Tracker](https://braintree-brainworx.github.io/Compliance_Document_Tracker/)
-- [PowerFlow Configurable Workflows](https://braintree-brainworx.github.io/PowerFlow/)
 - [Preferential Procurement Support](https://braintree-brainworx.github.io/Preferential-Procurement-Support/)
   
 ## Back Office Administration
