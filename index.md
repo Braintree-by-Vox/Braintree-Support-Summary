@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's FastTrack Implementation Manager to Microsoft Dynamics 365 Business Central
+---
+
 # Braintree Extensions for Microsoft Dynamics 365
 
 # For Business Central
@@ -22,7 +28,7 @@
 - [Projects and Professional Services](https://braintree-brainworx.github.io/Braintree-PPS-Cloud)
    
 ## General Productivity
-- [LightSpeed Business Central Rapid Implementation](https://braintree-brainworx.github.io/Lightspeed-Support/)
+- [FastTrack Business Central Rapid Implementation](https://braintree-brainworx.github.io/Lightspeed-Support/)
 - [BC Widgets](https://braintree-brainworx.github.io/Braintree-BC-Widgets/)
 - [BC Scheduling](https://braintree-brainworx.github.io/BC-Scheduling/)
 
